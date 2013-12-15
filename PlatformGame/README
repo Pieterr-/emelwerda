@@ -1,0 +1,8 @@
+Version 0.1;
+	- Moving platforms
+	- Bouncing ball
+	- Wall collision
+
+Version 0.2:
+	- Fixed y-value platforms
+	- Added background

@@ -6,3 +6,10 @@ Version 0.1;
 Version 0.2:
 	- Fixed y-value platforms
 	- Added background
+	- Deleted manual bounce
+	
+For version 0.3:
+	- Add score on screen (now only bouncecounter in commentline
+	- Add posibility to die
+	- Add images for ball and platforms
+	- Add something like coins
